@@ -38,7 +38,7 @@
     "md5hex": "^1.0.0",
     "mkdirp": "^0.5.2",
     "node-modules-path": "^1.0.2",
-    "rsvp": "^4.8.4",
+    "rsvp": "^4.8.5",
     "symlink-or-copy": "^1.2.0",
     "through2": "^3.0.1",
     "tree-sync": "^2.0.0",
