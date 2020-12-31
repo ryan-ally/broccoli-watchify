@@ -41,7 +41,7 @@
     "rsvp": "^4.8.4",
     "symlink-or-copy": "^1.2.0",
     "through2": "^3.0.1",
-    "tree-sync": "^2.0.0",
+    "tree-sync": "^2.1.0",
     "xtend": "^4.0.1",
     "snyk": "^1.437.3"
   },
