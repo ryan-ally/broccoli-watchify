@@ -8,8 +8,111 @@ patch:
         patched: '2020-12-30T20:22:18.709Z'
     - tree-sync > fs-tree-diff > heimdalljs-logger > debug:
         patched: '2020-12-30T20:22:18.709Z'
+    - broccoli > heimdalljs-logger > debug:
+        patched: '2021-03-16T00:00:30.763Z'
+    - broccoli > tree-sync > debug:
+        patched: '2021-03-16T00:00:30.763Z'
+    - broccoli > watch-detector > heimdalljs-logger > debug:
+        patched: '2021-03-16T00:00:30.763Z'
+    - broccoli > watch-detector > silent-error > debug:
+        patched: '2021-03-16T00:00:30.763Z'
+    - broccoli > findup-sync > micromatch > snapdragon > debug:
+        patched: '2021-03-16T00:00:30.763Z'
+    - mocha > findup-sync > micromatch > snapdragon > debug:
+        patched: '2021-03-16T00:00:30.763Z'
+    - broccoli > sane > micromatch > snapdragon > debug:
+        patched: '2021-03-16T00:00:30.763Z'
+    - broccoli > tree-sync > fs-tree-diff > heimdalljs-logger > debug:
+        patched: '2021-03-16T00:00:30.763Z'
+    - broccoli > findup-sync > micromatch > braces > snapdragon > debug:
+        patched: '2021-03-16T00:00:30.763Z'
+    - mocha > findup-sync > micromatch > braces > snapdragon > debug:
+        patched: '2021-03-16T00:00:30.763Z'
+    - broccoli > sane > micromatch > braces > snapdragon > debug:
+        patched: '2021-03-16T00:00:30.763Z'
+    - broccoli > findup-sync > micromatch > extglob > snapdragon > debug:
+        patched: '2021-03-16T00:00:30.763Z'
+    - mocha > findup-sync > micromatch > extglob > snapdragon > debug:
+        patched: '2021-03-16T00:00:30.763Z'
+    - broccoli > sane > micromatch > extglob > snapdragon > debug:
+        patched: '2021-03-16T00:00:30.763Z'
+    - broccoli > findup-sync > micromatch > nanomatch > snapdragon > debug:
+        patched: '2021-03-16T00:00:30.763Z'
+    - mocha > findup-sync > micromatch > nanomatch > snapdragon > debug:
+        patched: '2021-03-16T00:00:30.763Z'
+    - broccoli > sane > micromatch > nanomatch > snapdragon > debug:
+        patched: '2021-03-16T00:00:30.763Z'
+    - broccoli > sane > anymatch > micromatch > snapdragon > debug:
+        patched: '2021-03-16T00:00:30.763Z'
+    - broccoli > sane > anymatch > micromatch > braces > snapdragon > debug:
+        patched: '2021-03-16T00:00:30.763Z'
+    - broccoli > findup-sync > micromatch > extglob > expand-brackets > snapdragon > debug:
+        patched: '2021-03-16T00:00:30.763Z'
+    - mocha > findup-sync > micromatch > extglob > expand-brackets > snapdragon > debug:
+        patched: '2021-03-16T00:00:30.763Z'
+    - broccoli > sane > micromatch > extglob > expand-brackets > snapdragon > debug:
+        patched: '2021-03-16T00:00:30.763Z'
+    - broccoli > sane > anymatch > micromatch > extglob > snapdragon > debug:
+        patched: '2021-03-16T00:00:30.763Z'
+    - broccoli > sane > anymatch > micromatch > nanomatch > snapdragon > debug:
+        patched: '2021-03-16T00:00:30.763Z'
+    - broccoli > sane > anymatch > micromatch > extglob > expand-brackets > snapdragon > debug:
+        patched: '2021-03-16T00:00:30.763Z'
   'npm:ms:20170412':
     - tree-sync > debug > ms:
         patched: '2020-12-30T20:22:18.709Z'
     - tree-sync > fs-tree-diff > heimdalljs-logger > debug > ms:
         patched: '2020-12-30T20:22:18.709Z'
+    - broccoli > heimdalljs-logger > debug > ms:
+        patched: '2021-03-16T00:00:30.763Z'
+    - broccoli > tree-sync > debug > ms:
+        patched: '2021-03-16T00:00:30.763Z'
+    - broccoli > watch-detector > heimdalljs-logger > debug > ms:
+        patched: '2021-03-16T00:00:30.763Z'
+    - broccoli > watch-detector > silent-error > debug > ms:
+        patched: '2021-03-16T00:00:30.763Z'
+    - broccoli > findup-sync > micromatch > snapdragon > debug > ms:
+        patched: '2021-03-16T00:00:30.763Z'
+    - mocha > findup-sync > micromatch > snapdragon > debug > ms:
+        patched: '2021-03-16T00:00:30.763Z'
+    - broccoli > sane > micromatch > snapdragon > debug > ms:
+        patched: '2021-03-16T00:00:30.763Z'
+    - broccoli > tree-sync > fs-tree-diff > heimdalljs-logger > debug > ms:
+        patched: '2021-03-16T00:00:30.763Z'
+    - broccoli > findup-sync > micromatch > braces > snapdragon > debug > ms:
+        patched: '2021-03-16T00:00:30.763Z'
+    - mocha > findup-sync > micromatch > braces > snapdragon > debug > ms:
+        patched: '2021-03-16T00:00:30.763Z'
+    - broccoli > sane > micromatch > braces > snapdragon > debug > ms:
+        patched: '2021-03-16T00:00:30.763Z'
+    - broccoli > findup-sync > micromatch > extglob > snapdragon > debug > ms:
+        patched: '2021-03-16T00:00:30.763Z'
+    - mocha > findup-sync > micromatch > extglob > snapdragon > debug > ms:
+        patched: '2021-03-16T00:00:30.763Z'
+    - broccoli > sane > micromatch > extglob > snapdragon > debug > ms:
+        patched: '2021-03-16T00:00:30.763Z'
+    - broccoli > findup-sync > micromatch > nanomatch > snapdragon > debug > ms:
+        patched: '2021-03-16T00:00:30.763Z'
+    - mocha > findup-sync > micromatch > nanomatch > snapdragon > debug > ms:
+        patched: '2021-03-16T00:00:30.763Z'
+    - broccoli > sane > micromatch > nanomatch > snapdragon > debug > ms:
+        patched: '2021-03-16T00:00:30.763Z'
+    - broccoli > sane > anymatch > micromatch > snapdragon > debug > ms:
+        patched: '2021-03-16T00:00:30.763Z'
+    - broccoli > sane > anymatch > micromatch > braces > snapdragon > debug > ms:
+        patched: '2021-03-16T00:00:30.763Z'
+    - broccoli > findup-sync > micromatch > extglob > expand-brackets > snapdragon > debug > ms:
+        patched: '2021-03-16T00:00:30.763Z'
+    - mocha > findup-sync > micromatch > extglob > expand-brackets > snapdragon > debug > ms:
+        patched: '2021-03-16T00:00:30.763Z'
+    - broccoli > sane > micromatch > extglob > expand-brackets > snapdragon > debug > ms:
+        patched: '2021-03-16T00:00:30.763Z'
+    - broccoli > sane > anymatch > micromatch > extglob > snapdragon > debug > ms:
+        patched: '2021-03-16T00:00:30.763Z'
+    - broccoli > sane > anymatch > micromatch > nanomatch > snapdragon > debug > ms:
+        patched: '2021-03-16T00:00:30.763Z'
+    - broccoli > sane > anymatch > micromatch > extglob > expand-brackets > snapdragon > debug > ms:
+        patched: '2021-03-16T00:00:30.763Z'
+  SNYK-JS-LODASH-567746:
+    - mocha > yargs-unparser > lodash:
+        patched: '2021-03-16T00:00:30.763Z'
