@@ -50,7 +50,7 @@
     "chai": "^4.2.0",
     "chai-files": "^1.4.0",
     "fixturify": "^1.2.0",
-    "mocha": "^6.0.2"
+    "mocha": "^9.2.2"
   },
   "engines": {
     "node": "8.* || >= 10.*"
