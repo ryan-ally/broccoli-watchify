@@ -46,7 +46,7 @@
     "snyk": "^1.437.3"
   },
   "devDependencies": {
-    "broccoli": "^2.3.0",
+    "broccoli": "^4.0.0",
     "chai": "^4.2.0",
     "chai-files": "^1.4.0",
     "fixturify": "^1.2.0",
